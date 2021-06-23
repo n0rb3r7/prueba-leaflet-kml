@@ -34,6 +34,11 @@
           const bounds = track.getBounds();
           map.fitBounds(bounds);
         });
+
+      map.on("popupopen", function (e) {
+        var popup = e.popup;
+        console.log(map)
+      });
     </script>
   </body>
 </html>
