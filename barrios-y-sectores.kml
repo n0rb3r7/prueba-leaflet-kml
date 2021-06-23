@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BARRIOS_Y_SECTORES" id="BARRIOS_Y_SECTORES">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>BARRIOS_Y_SECTORES</name>
+  <Placemark>
+	<name>Ejido Meseta</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.161491013327,-38.8906606541491,0 -68.1654954795029,-38.8937134294706,0 -68.1770963865285,-38.8845456091538,0 -68.1787922434089,-38.8706822831735,0 -68.1814819687928,-38.8494434833206,0 -68.169602516972,-38.8586543096424,0 -68.1742106282649,-38.8634899715682,0 -68.1651010197081,-38.8690731537303,0 -68.1584203740495,-38.8760073037277,0 -68.1524325572059,-38.872406239768,0 -68.1515123584053,-38.8732445248842,0 -68.1570729691549,-38.8841137130646,0 -68.1425585922322,-38.8892779481548,0 -68.153244665559,-38.8974498032587,0 -68.161491013327,-38.8906606541491,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Area Centro Este</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0493919723643,-38.9558363763708,0 -68.0521443650214,-38.9559578764232,0 -68.0663083808845,-38.9559499324135,0 -68.0661879413983,-38.9451699745493,0 -68.0663392514946,-38.9421733899658,0 -68.0659998495027,-38.9419944109512,0 -68.0663195507974,-38.9399132366704,0 -68.0666454103299,-38.9378308434532,0 -68.0667161668347,-38.9371278060504,0 -68.0668378830206,-38.9366055677657,0 -68.0675440090921,-38.93511596222,0 -68.0682404917655,-38.9342209861533,0 -68.0692028710047,-38.933446565046,0 -68.0683266875377,-38.9336113410261,0 -68.0663438286923,-38.9328718461035,0 -68.0633795195052,-38.9360210921533,0 -68.0587255438661,-38.9360967219938,0 -68.0586720292614,-38.9329283114297,0 -68.0482408942554,-38.9330054456488,0 -68.0481867363329,-38.9332563173538,0 -68.0474055515361,-38.9346850756603,0 -68.0446583375353,-38.9362234097116,0 -68.0429960668678,-38.9374817011482,0 -68.0449041506631,-38.9374573851121,0 -68.0449094467736,-38.9380008373896,0 -68.0449296195927,-38.940037305346,0 -68.050740804402,-38.9400383188243,0 -68.050761494593,-38.9415944197323,0 -68.0533975385082,-38.9415874035852,0 -68.0534632670134,-38.9475193665219,0 -68.0517169536976,-38.9475351383662,0 -68.0507164925292,-38.9477366388806,0 -68.0478979321551,-38.9483853670329,0 -68.0479259415467,-38.9507840030044,0 -68.0479830042819,-38.9556706126486,0 -68.0493919723643,-38.9558363763708,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Area Centro Sur</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0493919723643,-38.9558363763708,0 -68.0494077311295,-38.95930950425,0 -68.0733062295451,-38.9592338310975,0 -68.073272992478,-38.9559085822186,0 -68.0663083808845,-38.9559499324135,0 -68.0521443650214,-38.9559578764232,0 -68.0493919723643,-38.9558363763708,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Villa Maria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0563836295348,-38.9709701937444,0 -68.0579076068228,-38.9705777537878,0 -68.0622294206746,-38.9701058010127,0 -68.0642393686706,-38.9706035040065,0 -68.0663253212541,-38.9715833486134,0 -68.0678102204042,-38.9725175041676,0 -68.0677811061617,-38.9657261477586,0 -68.0677766975219,-38.9646979144304,0 -68.0644647793359,-38.9647212229918,0 -68.0639077954992,-38.9640953783969,0 -68.0637317478524,-38.963886840067,0 -68.0633624304124,-38.9639018873834,0 -68.0629827653058,-38.9638267956554,0 -68.0627239679273,-38.9637706844872,0 -68.0623261133587,-38.9637629856235,0 -68.0621692674947,-38.9636225056797,0 -68.0608095795754,-38.9633435518871,0 -68.0590582179147,-38.9638759349764,0 -68.0590630781859,-38.9647127734066,0 -68.0577407153702,-38.9647243356562,0 -68.057740789472,-38.9660093507898,0 -68.0563556578491,-38.9660248368102,0 -68.0563836295348,-38.9709701937444,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Belgrano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0453534056537,-38.9756539424898,0 -68.0452817206154,-38.9733932419675,0 -68.0470419556135,-38.9733877176149,0 -68.0475564920599,-38.9730633555849,0 -68.0481212373214,-38.9727991395557,0 -68.0487611660894,-38.9726350982225,0 -68.0487633244575,-38.9723652392257,0 -68.0511139159246,-38.9719137525233,0 -68.0531172501149,-38.9725461293332,0 -68.0535958012728,-38.9715261367972,0 -68.0549192963311,-38.9712880246204,0 -68.0549285883962,-38.9714688926848,0 -68.0564041724486,-38.9714311633387,0 -68.0563836295348,-38.9709701937444,0 -68.0563556578491,-38.9660248368102,0 -68.057740789472,-38.9660093507898,0 -68.0577407153702,-38.9647243356562,0 -68.0590630781859,-38.9647127734066,0 -68.0590582179147,-38.9638759349764,0 -68.0590333880216,-38.9596009676434,0 -68.0494118539428,-38.9596533041945,0 -68.0397467169453,-38.9597281824984,0 -68.0398043724628,-38.9732875235402,0 -68.0399352079932,-38.9790986273016,0 -68.0418328293212,-38.979072114664,0 -68.0418472534861,-38.9780019190184,0 -68.0437360437767,-38.9777089477597,0 -68.0445026912905,-38.9763140613686,0 -68.0446514120236,-38.9756880229552,0 -68.0453534056537,-38.9756539424898,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Rio Grande</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0563836295348,-38.9709701937444,0 -68.0564041724486,-38.9714311633387,0 -68.0549285883962,-38.9714688926848,0 -68.0549192963311,-38.9712880246204,0 -68.0535958012728,-38.9715261367972,0 -68.0531172501149,-38.9725461293332,0 -68.0511139159246,-38.9719137525233,0 -68.0487633244575,-38.9723652392257,0 -68.0487611660894,-38.9726350982225,0 -68.0481212373214,-38.9727991395557,0 -68.0475564920599,-38.9730633555849,0 -68.0470419556135,-38.9733877176149,0 -68.0452817206154,-38.9733932419675,0 -68.0453534056537,-38.9756539424898,0 -68.0449381363591,-38.9764973554627,0 -68.0452376952608,-38.9775899401039,0 -68.0476473312367,-38.9775653114481,0 -68.0496108686143,-38.9779545235876,0 -68.0538608700352,-38.9798331230849,0 -68.05652874403,-38.9801401157177,0 -68.059762877168,-38.980166221326,0 -68.0608869240578,-38.9802411328616,0 -68.0622114449483,-38.9801271689699,0 -68.0624965912299,-38.979749155403,0 -68.0649145733193,-38.979812464065,0 -68.0657657583595,-38.9792485011228,0 -68.0678138228353,-38.9800266589752,0 -68.0686336508521,-38.9821853040066,0 -68.0692209840423,-38.9842301246708,0 -68.0734886548591,-38.9880847218247,0 -68.0733858312973,-38.9769626096528,0 -68.0732869547758,-38.9768894083316,0 -68.0720633194769,-38.9764404157541,0 -68.0707878985488,-38.976364375907,0 -68.0695868928372,-38.974905220815,0 -68.0679396462165,-38.9730291577099,0 -68.0678102204042,-38.9725175041676,0 -68.0663253212541,-38.9715833486134,0 -68.0642393686706,-38.9706035040065,0 -68.0622294206746,-38.9701058010127,0 -68.0579076068228,-38.9705777537878,0 -68.0563836295348,-38.9709701937444,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Santa Genoveva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0374228249364,-38.9457216121469,0 -68.0383028663115,-38.9475737238158,0 -68.0384003792279,-38.9508838338627,0 -68.0479259415467,-38.9507840030044,0 -68.0478979321551,-38.9483853670329,0 -68.0507164925292,-38.9477366388806,0 -68.0517169536976,-38.9475351383662,0 -68.0534632670134,-38.9475193665219,0 -68.0533975385082,-38.9415874035852,0 -68.050761494593,-38.9415944197323,0 -68.050740804402,-38.9400383188243,0 -68.0449296195927,-38.940037305346,0 -68.0449094467736,-38.9380008373896,0 -68.0421768213315,-38.9380180482064,0 -68.0413755412373,-38.9389990411681,0 -68.0400864211838,-38.9421624475586,0 -68.0395279656393,-38.942446048793,0 -68.0393553522596,-38.9424518265186,0 -68.0379062248601,-38.9427647645398,0 -68.0361930770147,-38.9433478677704,0 -68.0373900526426,-38.9447707065284,0 -68.0374228249364,-38.9457216121469,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Villa Farrel</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0479830042819,-38.9556706126486,0 -68.0479259415467,-38.9507840030044,0 -68.0384003792279,-38.9508838338627,0 -68.0321264123204,-38.9508850473152,0 -68.031521208058,-38.9508861598269,0 -68.0315489130827,-38.95328560688,0 -68.0479830042819,-38.9556706126486,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Confluencia Rural</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0233396357862,-38.9734813542704,0 -68.023294196304,-38.9691455640117,0 -68.028671931574,-38.9690969119979,0 -68.0285812270209,-38.9649688053949,0 -68.0232131960419,-38.9650070568203,0 -68.0230287950035,-38.9553733026139,0 -68.0170241031116,-38.9554377217582,0 -68.0149401449182,-38.9571188839365,0 -68.0130471058089,-38.9577834367706,0 -68.0107919082521,-38.9582034050419,0 -68.0098662906844,-38.9580418835636,0 -68.0082210049227,-38.9590816624349,0 -68.0076131537701,-38.9603278224713,0 -68.0077136708111,-38.9611848484865,0 -68.0083120031267,-38.9626388396003,0 -68.009610512064,-38.964296349762,0 -68.009826274363,-38.9649567736829,0 -68.0095328751066,-38.9678520918704,0 -68.0088720975119,-38.9688563232668,0 -68.0078210121577,-38.9696157488271,0 -68.0055308443337,-38.9704963298917,0 -68.0046869780411,-38.9705110882197,0 -68.0019476850612,-38.971828107515,0 -68.0009069452094,-38.973385520479,0 -68.0013570885678,-38.9753342637085,0 -68.0020208889927,-38.9761302525711,0 -68.0026599702486,-38.9766845428557,0 -68.003385886997,-38.9770639469888,0 -68.0046232209618,-38.9770745086292,0 -68.0071058613632,-38.9765248810788,0 -68.0093271185129,-38.9765657140785,0 -68.0110663509979,-38.9768878102401,0 -68.0118167758456,-38.9775308064743,0 -68.012115131326,-38.9783236427349,0 -68.0121304420376,-38.9792458004562,0 -68.011979153391,-38.9800128761367,0 -68.0111828699428,-38.9806427690314,0 -68.0105532511607,-38.9818977564135,0 -68.0096270683179,-38.9825124431213,0 -68.0089726117335,-38.9828748547747,0 -68.0082691895903,-38.9833129846896,0 -68.010669437399,-38.983655340578,0 -68.0112602483865,-38.9831680240356,0 -68.011711999667,-38.9823651651488,0 -68.0126868620657,-38.9817092509222,0 -68.0137937145556,-38.9809941610777,0 -68.0143610416584,-38.9806477060955,0 -68.0158111761586,-38.9787854778497,0 -68.0179331629045,-38.9772744924256,0 -68.0210240022336,-38.976774201361,0 -68.0225219740678,-38.9762379327598,0 -68.0235295085322,-38.9765976177408,0 -68.0262037374742,-38.9764101836033,0 -68.0285593387845,-38.9773819510384,0 -68.0307905446612,-38.97766180741,0 -68.0330860188607,-38.979092038188,0 -68.0352798549267,-38.9790882440258,0 -68.0379014676845,-38.9786488748645,0 -68.0393448768813,-38.9786605362544,0 -68.0399352079932,-38.9790986273016,0 -68.0398043724628,-38.9732875235402,0 -68.0233396357862,-38.9734813542704,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Confluencia Urbano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0233396357862,-38.9734813542704,0 -68.0398043724628,-38.9732875235402,0 -68.0397467169453,-38.9597281824984,0 -68.0369237639673,-38.9596516149861,0 -68.034102048387,-38.9589853003731,0 -68.0322854930076,-38.9581953664959,0 -68.0313735237217,-38.9576849498446,0 -68.0284161683397,-38.9554760756333,0 -68.0284080959851,-38.9554048578316,0 -68.0282785134717,-38.9553720512931,0 -68.0220257142127,-38.9503249317344,0 -68.0211433336581,-38.9510263637732,0 -68.0203916128466,-38.9523750333785,0 -68.0188580181515,-38.9539807126614,0 -68.0170241031116,-38.9554377217582,0 -68.0230287950035,-38.9553733026139,0 -68.0232131960419,-38.9650070568203,0 -68.0285812270209,-38.9649688053949,0 -68.028671931574,-38.9690969119979,0 -68.023294196304,-38.9691455640117,0 -68.0233396357862,-38.9734813542704,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Santa Catalina</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0231704156887,-38.9596085187656,0 -68.0253068788085,-38.9595851170396,0 -68.0253154196572,-38.9604063629928,0 -68.0251562091236,-38.9604554112874,0 -68.0251869886654,-38.9614805431272,0 -68.0253386969454,-38.9615735402836,0 -68.0253813092011,-38.9628193355245,0 -68.0232684832524,-38.9628288284151,0 -68.0231704156887,-38.9596085187656,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Los Pumas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0233609148459,-38.9691989884065,0 -68.0342284093901,-38.9691368592181,0 -68.0342927430343,-38.9732652352338,0 -68.0234117208298,-38.9734122811815,0 -68.0233609148459,-38.9691989884065,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sapere</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0290611088748,-38.9477516208959,0 -68.0285000476457,-38.9479337468509,0 -68.0271365770679,-38.9479917410027,0 -68.0232171646822,-38.9499169016437,0 -68.0252559287516,-38.9514703419767,0 -68.0270516216372,-38.9523491656311,0 -68.0285526837431,-38.9528897602851,0 -68.030094560948,-38.9530744244209,0 -68.0315489130827,-38.95328560688,0 -68.031521208058,-38.9508861598269,0 -68.0321264123204,-38.9508850473152,0 -68.0320802406909,-38.9492995310422,0 -68.0298724213317,-38.9493129761558,0 -68.0301893571817,-38.9488355950494,0 -68.0301723613728,-38.9484316035228,0 -68.0302940424072,-38.9484185673877,0 -68.0302651189934,-38.9477519290111,0 -68.0290611088748,-38.9477516208959,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Provincias Unidas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0290611088748,-38.9477516208959,0 -68.0302651189934,-38.9477519290111,0 -68.0302940424072,-38.9484185673877,0 -68.0301723613728,-38.9484316035228,0 -68.0301893571817,-38.9488355950494,0 -68.0298724213317,-38.9493129761558,0 -68.0320802406909,-38.9492995310422,0 -68.0321264123204,-38.9508850473152,0 -68.0384003792279,-38.9508838338627,0 -68.0383028663115,-38.9475737238158,0 -68.0374228249364,-38.9457216121469,0 -68.0373900526426,-38.9447707065284,0 -68.0361930770147,-38.9433478677704,0 -68.0317936176905,-38.9456884369499,0 -68.0271365770679,-38.9479917410027,0 -68.0285000476457,-38.9479337468509,0 -68.0290611088748,-38.9477516208959,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Mariano Moreno</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0285526837431,-38.9528897602851,0 -68.0270516216372,-38.9523491656311,0 -68.0264633973976,-38.953436982382,0 -68.0284171127084,-38.9550009227606,0 -68.0322384076038,-38.9577745589231,0 -68.0340650680251,-38.9585975540816,0 -68.0368736845046,-38.9592545023196,0 -68.0386750790792,-38.9593874674506,0 -68.0494077311295,-38.95930950425,0 -68.0493919723643,-38.9558363763708,0 -68.0479830042819,-38.9556706126486,0 -68.0315489130827,-38.95328560688,0 -68.030094560948,-38.9530744244209,0 -68.0285526837431,-38.9528897602851,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Nuevo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0677766975219,-38.9646979144304,0 -68.0677546350141,-38.9595528426347,0 -68.0590333880216,-38.9596009676434,0 -68.0590582179147,-38.9638759349764,0 -68.0608095795754,-38.9633435518871,0 -68.0621692674947,-38.9636225056797,0 -68.0623261133587,-38.9637629856235,0 -68.0627239679273,-38.9637706844872,0 -68.0629827653058,-38.9638267956554,0 -68.0633624304124,-38.9639018873834,0 -68.0637317478524,-38.963886840067,0 -68.0639077954992,-38.9640953783969,0 -68.0644647793359,-38.9647212229918,0 -68.0677766975219,-38.9646979144304,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Rincon de Emilio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0420398030161,-38.9346873786235,0 -68.0427445127535,-38.9351697028786,0 -68.0425402900193,-38.9363517426191,0 -68.0424528120412,-38.9367492975053,0 -68.0429960668678,-38.9374817011482,0 -68.0446583375353,-38.9362234097116,0 -68.0474055515361,-38.9346850756603,0 -68.0481867363329,-38.9332563173538,0 -68.0482408942554,-38.9330054456488,0 -68.050231133946,-38.9303686083214,0 -68.0526332967356,-38.9293290147322,0 -68.0528310231522,-38.9295231856604,0 -68.0599713200481,-38.9211064569882,0 -68.0584497070119,-38.9199379381227,0 -68.0590922826958,-38.918697920362,0 -68.052642427977,-38.9157106440235,0 -68.0495654564804,-38.9193895289021,0 -68.0492684750113,-38.9216832483716,0 -68.0485519165061,-38.9225650721607,0 -68.0478163291749,-38.9231430123108,0 -68.0461261087603,-38.9243425744599,0 -68.0432522844301,-38.9269538801033,0 -68.0426515161873,-38.9292972350302,0 -68.0424460303186,-38.9305298494489,0 -68.0419720513055,-38.9318136226735,0 -68.0415680284639,-38.9327453407572,0 -68.0414517432514,-38.9333799382177,0 -68.0415349552554,-38.9338637504135,0 -68.041701564224,-38.9343127637749,0 -68.0420398030161,-38.9346873786235,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Villa Florencia</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0677766975219,-38.9646979144304,0 -68.0677811061617,-38.9657261477586,0 -68.0733248727058,-38.9657123893121,0 -68.0748270673718,-38.9657086158283,0 -68.0754812640143,-38.965221238154,0 -68.0789233642076,-38.9652155822079,0 -68.0788804641408,-38.9645693086875,0 -68.0787947016722,-38.9594909870769,0 -68.0677546350141,-38.9595528426347,0 -68.0677766975219,-38.9646979144304,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Bouquet Roldan</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.073272992478,-38.9559085822186,0 -68.0733062295451,-38.9592338310975,0 -68.0898953232916,-38.9591790545723,0 -68.0898455008704,-38.9558085164483,0 -68.0788006629603,-38.9558754674717,0 -68.073272992478,-38.9559085822186,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Don Bosco II</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0733858312973,-38.9769626096528,0 -68.07416554079,-38.9775137032588,0 -68.0768886141755,-38.9775830264504,0 -68.078879686777,-38.9774555147766,0 -68.0788801206882,-38.9773980405118,0 -68.078901609138,-38.9730851962087,0 -68.0733119773965,-38.9731096464829,0 -68.0732869547758,-38.9768894083316,0 -68.0733858312973,-38.9769626096528,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Limay</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0695868928372,-38.974905220815,0 -68.0707878985488,-38.976364375907,0 -68.0720633194769,-38.9764404157541,0 -68.0732869547758,-38.9768894083316,0 -68.0733119773965,-38.9731096464829,0 -68.0733248727058,-38.9657123893121,0 -68.0677811061617,-38.9657261477586,0 -68.0678102204042,-38.9725175041676,0 -68.0679396462165,-38.9730291577099,0 -68.0695868928372,-38.974905220815,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Copol</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.06649411579,-38.9328318759479,0 -68.0678136467008,-38.9308967645372,0 -68.0683704580575,-38.9307934820731,0 -68.0691299202563,-38.9306423900558,0 -68.0707603456525,-38.930347142225,0 -68.0716427325428,-38.9303696206231,0 -68.0725359333774,-38.9297914494438,0 -68.0726376449019,-38.9299805003417,0 -68.0710514399659,-38.9317584998982,0 -68.0695443693265,-38.9333606388873,0 -68.0687574446139,-38.9335301901646,0 -68.0682178323905,-38.9334915360692,0 -68.0677170136248,-38.9333275468302,0 -68.06649411579,-38.9328318759479,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>14 de Octubre</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0723321277326,-38.9299877068882,0 -68.0717783914352,-38.9303933051033,0 -68.0707362466927,-38.9299609797794,0 -68.0686482053753,-38.9283992125261,0 -68.06730554919,-38.9259454714717,0 -68.0692875038897,-38.9241894290019,0 -68.0729320903754,-38.9234373443558,0 -68.0738766001343,-38.9243387543334,0 -68.0739540914789,-38.9256128882808,0 -68.0740424846169,-38.9272544695693,0 -68.0741652275503,-38.928146187708,0 -68.0730131574964,-38.9297608262319,0 -68.0723321277326,-38.9299877068882,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Area Centro Oeste</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.078510286198,-38.9419144362296,0 -68.0785182606152,-38.9421317714521,0 -68.0748451665549,-38.942126661544,0 -68.0748483456441,-38.9432819608129,0 -68.0731148848727,-38.9433003455395,0 -68.0731229634889,-38.9438573568379,0 -68.0716355951933,-38.9438661523524,0 -68.0716143450938,-38.9433135648168,0 -68.0675341307109,-38.9433446662416,0 -68.0675297851738,-38.9421542756268,0 -68.0670427518846,-38.9421620965471,0 -68.0663392514946,-38.9421733899658,0 -68.0661879413983,-38.9451699745493,0 -68.0663083808845,-38.9559499324135,0 -68.073272992478,-38.9559085822186,0 -68.0788006629603,-38.9558754674717,0 -68.0787323352976,-38.9506074870341,0 -68.0786902429697,-38.9473621263472,0 -68.0794368221396,-38.9450657649132,0 -68.0799259964165,-38.944472781365,0 -68.0800540351276,-38.9440931944672,0 -68.0800763969459,-38.9434372805352,0 -68.0798412323205,-38.9429670534767,0 -68.0792719668535,-38.942452782741,0 -68.078510286198,-38.9419144362296,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Canal V</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1256692141265,-38.9511383874832,0 -68.1248361003511,-38.9508597594863,0 -68.1238258193058,-38.9503012921587,0 -68.1119313645667,-38.9504130844487,0 -68.1119783986753,-38.9547281159635,0 -68.1091779776729,-38.954736852199,0 -68.1091793193602,-38.9556888025933,0 -68.1009129728792,-38.9557403794041,0 -68.0898455008704,-38.9558085164483,0 -68.0898953232916,-38.9591790545723,0 -68.123204801318,-38.9589179759337,0 -68.124483427201,-38.9587228289762,0 -68.1253125791938,-38.9581148072686,0 -68.1319901908217,-38.9526677918293,0 -68.1256692141265,-38.9511383874832,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Huilliches</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1091779776729,-38.954736852199,0 -68.1119783986753,-38.9547281159635,0 -68.1119313645667,-38.9504130844487,0 -68.11189513205,-38.9470889739026,0 -68.100805058951,-38.9471902135436,0 -68.1009129728792,-38.9557403794041,0 -68.1091793193602,-38.9556888025933,0 -68.1091779776729,-38.954736852199,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>San Lorenzo Sur</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1339558289023,-38.9448730335376,0 -68.1285976350792,-38.9449009373993,0 -68.1285967704483,-38.9448283782949,0 -68.111872261712,-38.9449907408385,0 -68.11189513205,-38.9470889739026,0 -68.1119313645667,-38.9504130844487,0 -68.1238258193058,-38.9503012921587,0 -68.1248361003511,-38.9508597594863,0 -68.1256692141265,-38.9511383874832,0 -68.1319901908217,-38.9526677918293,0 -68.1341997453595,-38.9509922920863,0 -68.1339558289023,-38.9448730335376,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Las Plateas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1270827177037,-38.9469270857503,0 -68.123074462967,-38.9469608996438,0 -68.1230496611099,-38.9449457347935,0 -68.1270608979052,-38.9449264248576,0 -68.1270827177037,-38.9469270857503,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector La Laguna</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.128485109127,-38.9469843480593,0 -68.1285087699408,-38.9444149675538,0 -68.129681276664,-38.9443964191229,0 -68.1296666362623,-38.944870745127,0 -68.1298220639244,-38.9449610167205,0 -68.1298330604272,-38.9454126065167,0 -68.1332648884988,-38.9453571913643,0 -68.1333054935107,-38.9466052707413,0 -68.1298212897446,-38.9465490283142,0 -68.129806457171,-38.9469920947561,0 -68.128485109127,-38.9469843480593,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Loteo Social</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1285043371283,-38.9474860137645,0 -68.1230229863241,-38.9474902163272,0 -68.1230124170279,-38.9470044318905,0 -68.1297320633786,-38.9470502332802,0 -68.1297161381363,-38.9473898895187,0 -68.1311576547228,-38.9474098074561,0 -68.1311485022865,-38.9485448152575,0 -68.1284949565299,-38.9485538692,0 -68.1285043371283,-38.9474860137645,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Valentina norte urbana</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1759998580876,-38.9499151294677,0 -68.1736238978208,-38.9483537928011,0 -68.1728771904321,-38.9474403106189,0 -68.166051336005,-38.9475220088633,0 -68.1659349422597,-38.9474663945022,0 -68.1530901263622,-38.9475866361948,0 -68.146853665441,-38.9453782253731,0 -68.1516788959009,-38.9416532951382,0 -68.1477341462571,-38.9402911880068,0 -68.1424859228798,-38.9444552484052,0 -68.1341997453595,-38.9509922920863,0 -68.1319901908217,-38.9526677918293,0 -68.1253125791938,-38.9581148072686,0 -68.1254858764332,-38.9582389538311,0 -68.1267623064518,-38.9582212122364,0 -68.1279711552116,-38.9580118550543,0 -68.1295640706397,-38.9578462997991,0 -68.1402050230314,-38.9577951525438,0 -68.1538342192738,-38.9576314238957,0 -68.1538426972284,-38.957712589873,0 -68.1557596988299,-38.9577117269504,0 -68.1557889886308,-38.9576308343126,0 -68.1576656403313,-38.9575926801529,0 -68.160887238902,-38.9572071743274,0 -68.1687001787569,-38.956012933897,0 -68.1742340459126,-38.9515764149858,0 -68.1759998580876,-38.9499151294677,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Ferroviario</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1579842723241,-38.9531227040357,0 -68.1586307116504,-38.9531105503362,0 -68.1586393802098,-38.954254098217,0 -68.1552147348017,-38.9542541856014,0 -68.1549724152914,-38.954349184064,0 -68.1549508726476,-38.9551696926682,0 -68.1547520421477,-38.9552894688444,0 -68.1459416168426,-38.9553433625391,0 -68.149428826763,-38.9525338357427,0 -68.1579945540053,-38.9519812081884,0 -68.1579842723241,-38.9531227040357,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Carnaghi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1399769027412,-38.9578392160044,0 -68.1282906130883,-38.9579467158369,0 -68.1251056539592,-38.9584979534359,0 -68.1283500460467,-38.9559759118425,0 -68.1399923601096,-38.9557496353555,0 -68.1399769027412,-38.9578392160044,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Barreneche</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1509643150064,-38.9577841450465,0 -68.1407790323102,-38.9578845397831,0 -68.1402423935595,-38.9576482453526,0 -68.1402772296518,-38.9558024591588,0 -68.1510456955686,-38.955686663031,0 -68.1509643150064,-38.9577841450465,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Valentina Norte Rural</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1518090063873,-38.9312469388786,0 -68.1494258619406,-38.9314983170878,0 -68.1495776245786,-38.9332190340733,0 -68.1405819496611,-38.935397347941,0 -68.1405467030298,-38.9354058813226,0 -68.1355240453538,-38.935381286561,0 -68.1339100213749,-38.9353788761516,0 -68.1339116826543,-38.9373404634068,0 -68.1339558289023,-38.9448730335376,0 -68.1341997453595,-38.9509922920863,0 -68.1424859228798,-38.9444552484052,0 -68.1477341462571,-38.9402911880068,0 -68.1516788959009,-38.9416532951382,0 -68.146853665441,-38.9453782253731,0 -68.1530901263622,-38.9475866361948,0 -68.1659349422597,-38.9474663945022,0 -68.166051336005,-38.9475220088633,0 -68.1728771904321,-38.9474403106189,0 -68.1736238978208,-38.9483537928011,0 -68.1759998580876,-38.9499151294677,0 -68.2031317747133,-38.9284093142413,0 -68.1822777150555,-38.9125385579359,0 -68.1763369446634,-38.9182735192539,0 -68.1779756121209,-38.9193301543324,0 -68.1776684633466,-38.9274757158387,0 -68.1779842648532,-38.9284469045203,0 -68.1766687137039,-38.9289712923499,0 -68.1727079362207,-38.9291780767038,0 -68.1690041610188,-38.9319966373314,0 -68.160329672544,-38.9301767170485,0 -68.1518090063873,-38.9312469388786,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector 370 Viviendas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.14960145892,-38.9340449782118,0 -68.1495434549738,-38.931836784441,0 -68.1524645078514,-38.9317208931018,0 -68.1548708027839,-38.9316724748582,0 -68.1550894385084,-38.932239508703,0 -68.1576542977465,-38.9322453163635,0 -68.1556970839635,-38.9338013668533,0 -68.14960145892,-38.9340449782118,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Heroes de Malvinas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1341418739811,-38.9448929607103,0 -68.1418269762762,-38.9448246307778,0 -68.1395194646029,-38.9466131363296,0 -68.1341169602707,-38.9466754450818,0 -68.1341418739811,-38.9448929607103,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gran Neuquen Norte</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1239436925673,-38.9324732564972,0 -68.1216154760099,-38.9304196308954,0 -68.1199039248233,-38.9303972894239,0 -68.1220481929516,-38.9286842122327,0 -68.1209784176952,-38.9271453717403,0 -68.1206442601077,-38.9272656960704,0 -68.1204657927602,-38.9273494952713,0 -68.1203677477937,-38.9272209009534,0 -68.1198316450963,-38.9274114226093,0 -68.1186914085233,-38.9258129636668,0 -68.1184220387059,-38.9257275455869,0 -68.1179907953253,-38.9254963715399,0 -68.1175975668819,-38.9256434909784,0 -68.1173424943037,-38.92540947693,0 -68.1168887591061,-38.9254143835612,0 -68.1166836246533,-38.9253141603459,0 -68.1166204922059,-38.9250968840663,0 -68.116547121089,-38.9249879295296,0 -68.116389933397,-38.9248950173312,0 -68.1160319875391,-38.9247388456367,0 -68.1130239170316,-38.9243819003874,0 -68.111381326224,-38.9243594721048,0 -68.1106349795961,-38.9243589506244,0 -68.1097305514495,-38.9248532475321,0 -68.1084453165504,-38.9255021466582,0 -68.1084752481502,-38.9257048113795,0 -68.1087147272262,-38.9279003738945,0 -68.114705935268,-38.9294100100676,0 -68.1144135463032,-38.9300303925175,0 -68.1144471808724,-38.9345648803792,0 -68.1172610217314,-38.9345565066697,0 -68.1337222915077,-38.934504222129,0 -68.1337231318219,-38.9338422401716,0 -68.1338087484839,-38.9331507808952,0 -68.1342067581173,-38.9323966725951,0 -68.126843823255,-38.9324658819538,0 -68.1268458322863,-38.9333409433073,0 -68.1241619754883,-38.9333698282757,0 -68.1241455488966,-38.9326338706516,0 -68.1239436925673,-38.9324732564972,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Loteo Social</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1121778922698,-38.9249750463572,0 -68.1134288288583,-38.9267624471283,0 -68.1150323499905,-38.929084254759,0 -68.114971745023,-38.9291573805511,0 -68.1145227076592,-38.9290564805568,0 -68.112945910219,-38.9286198055557,0 -68.1113608152005,-38.9281253396128,0 -68.1111536744015,-38.9282729665212,0 -68.1096443158998,-38.9280030838487,0 -68.109380727003,-38.9277915512838,0 -68.1095984326968,-38.9266037758019,0 -68.1091366348037,-38.9258903105892,0 -68.1102378023944,-38.9254718218067,0 -68.1115376994555,-38.9250852557274,0 -68.1121778922698,-38.9249750463572,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Toma Norte</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1209538416746,-38.9271976132903,0 -68.1219561520654,-38.9286764702506,0 -68.1215353925547,-38.9289827493195,0 -68.1206314128865,-38.9294528997317,0 -68.1202225966665,-38.9297875958015,0 -68.1193515088392,-38.9298294363415,0 -68.1178829145564,-38.9297437794862,0 -68.1172215574303,-38.929764198649,0 -68.1162724888673,-38.9297991068005,0 -68.1152389790542,-38.9295436962499,0 -68.1152508250921,-38.929284536872,0 -68.1122800173688,-38.9250180374717,0 -68.1145013922364,-38.9251973365249,0 -68.116208742702,-38.9253874548076,0 -68.116658090915,-38.9260980042741,0 -68.1176112561818,-38.92584391541,0 -68.1181723435681,-38.9259637190549,0 -68.1184030671408,-38.9263699584985,0 -68.1188749212819,-38.9261527768423,0 -68.1198253989426,-38.9274687454751,0 -68.1203438730141,-38.9272644981886,0 -68.1204523076249,-38.9274025667663,0 -68.1209538416746,-38.9271976132903,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gran Neuquen Sur</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1173423750277,-38.9417317469601,0 -68.1175883684821,-38.941721948631,0 -68.1280619428294,-38.9374065754209,0 -68.1339116826543,-38.9373404634068,0 -68.1339100213749,-38.9353788761516,0 -68.1337209768521,-38.9353738482216,0 -68.1337222915077,-38.934504222129,0 -68.1172610217314,-38.9345565066697,0 -68.1173423750277,-38.9417317469601,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Melipal</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0985167132887,-38.9345947143692,0 -68.0999796967132,-38.9368265787837,0 -68.1017967986966,-38.9368154409174,0 -68.102256489992,-38.9373599653768,0 -68.1025040287747,-38.9402456146722,0 -68.1027197644088,-38.9407678006438,0 -68.104450244071,-38.9407849858108,0 -68.1057360045602,-38.9417840635951,0 -68.111837011694,-38.9417567067408,0 -68.1173423750277,-38.9417317469601,0 -68.1172610217314,-38.9345565066697,0 -68.1144471808724,-38.9345648803792,0 -68.1143435566203,-38.9301834744955,0 -68.11440097273,-38.9298968827645,0 -68.1146206792139,-38.9293982455683,0 -68.1109447664716,-38.9285475840813,0 -68.1086751300154,-38.9279299108851,0 -68.1069683527029,-38.9297438185241,0 -68.1060614933798,-38.9309110948187,0 -68.1045149880146,-38.9305107672508,0 -68.1027487508169,-38.930608382502,0 -68.1018985193098,-38.931499660185,0 -68.1016503638149,-38.9317936915178,0 -68.101318946573,-38.9319056981498,0 -68.10101582695,-38.9317124343854,0 -68.1004177138491,-38.9316505474864,0 -68.0997732514319,-38.9313878239746,0 -68.0981912352224,-38.9308178536463,0 -68.096721480311,-38.9299837683222,0 -68.0962939434116,-38.9300249304999,0 -68.096906354639,-38.9311192195961,0 -68.0976058721652,-38.9320807646215,0 -68.098563291905,-38.9329108832147,0 -68.098956752213,-38.9333141636639,0 -68.0984942559632,-38.9338664848571,0 -68.0985167132887,-38.9345947143692,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Itati</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0974572927134,-38.9349657146752,0 -68.0978674902915,-38.9348499287252,0 -68.0987434902235,-38.9348728439136,0 -68.0999396951207,-38.9333609622805,0 -68.1003190509686,-38.9324970595893,0 -68.1010130662568,-38.9329410361336,0 -68.1038535343037,-38.9347919617864,0 -68.1029101786632,-38.9351758757459,0 -68.0989951437705,-38.9353093585992,0 -68.0980467783469,-38.9359460070746,0 -68.0974572927134,-38.9349657146752,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>San Lorenzo Norte</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1339116826543,-38.9373404634068,0 -68.1280619428294,-38.9374065754209,0 -68.1175883684821,-38.941721948631,0 -68.1173423750277,-38.9417317469601,0 -68.111837011694,-38.9417567067408,0 -68.111872261712,-38.9449907408385,0 -68.1285967704483,-38.9448283782949,0 -68.1285976350792,-38.9449009373993,0 -68.1339558289023,-38.9448730335376,0 -68.1339116826543,-38.9373404634068,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Union de Mayo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.111872261712,-38.9449907408385,0 -68.111837011694,-38.9417567067408,0 -68.1057360045602,-38.9417840635951,0 -68.1047605706439,-38.9417884078547,0 -68.1016791983827,-38.944364837537,0 -68.1007547482892,-38.9449458277549,0 -68.100805058951,-38.9471902135436,0 -68.11189513205,-38.9470889739026,0 -68.111872261712,-38.9449907408385,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Progreso</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0897995518976,-38.9505225387183,0 -68.0898455008704,-38.9558085164483,0 -68.1009129728792,-38.9557403794041,0 -68.100805058951,-38.9471902135436,0 -68.1007547482892,-38.9449458277549,0 -68.0952196668437,-38.9449268012913,0 -68.0952119493,-38.9458432622186,0 -68.0897628246205,-38.9462974965635,0 -68.0897995518976,-38.9505225387183,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Valentina Sur Urbana</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1182253156739,-38.9678594322125,0 -68.1268620796111,-38.9613729568121,0 -68.1211316338722,-38.9614304017683,0 -68.1241818838857,-38.9590754600547,0 -68.100959535332,-38.9594294347125,0 -68.1009954674,-38.9622762025814,0 -68.1202256845951,-38.9621470860262,0 -68.1114391371114,-38.9690968754893,0 -68.1151776972054,-38.9719717234467,0 -68.1194024188719,-38.9687338117899,0 -68.1182253156739,-38.9678594322125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Militar</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0789233642076,-38.9652155822079,0 -68.0788804641408,-38.9645693086875,0 -68.0899992589033,-38.9645270834087,0 -68.0899467020628,-38.9594274437273,0 -68.100959535332,-38.9594294347125,0 -68.1009954674,-38.9622762025814,0 -68.1011812617603,-38.9727015283229,0 -68.0901164745194,-38.9728107120702,0 -68.0900822871948,-38.9730763161845,0 -68.078901609138,-38.9730851962087,0 -68.0789233642076,-38.9652155822079,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Villa Ceferino</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0952196668437,-38.9449268012913,0 -68.0951749757853,-38.9417101727529,0 -68.0955857154283,-38.9413835445661,0 -68.0959316473683,-38.9411097703772,0 -68.095805241221,-38.9409027684931,0 -68.0974168245913,-38.9408273451135,0 -68.1004601372294,-38.9406942647506,0 -68.1019175527488,-38.9406285036166,0 -68.1017381636396,-38.9402302819065,0 -68.1025040287747,-38.9402456146722,0 -68.102256489992,-38.9373599653768,0 -68.1017967986966,-38.9368154409174,0 -68.0999796967132,-38.9368265787837,0 -68.0986844176464,-38.9348406020486,0 -68.0984297222564,-38.9344663500569,0 -68.0984206970549,-38.9340549200818,0 -68.0975386588835,-38.9340147503001,0 -68.0970861558384,-38.9337777761035,0 -68.0966752269922,-38.9336300646657,0 -68.0962069440929,-38.9335152612412,0 -68.0957906543122,-38.9337899832785,0 -68.0953488608588,-38.9338310314297,0 -68.094558543637,-38.9344141491697,0 -68.0947556406774,-38.9364798899239,0 -68.0943088333165,-38.9375046294355,0 -68.0837498251316,-38.9376946281747,0 -68.0842091756956,-38.938868931595,0 -68.0843931062879,-38.9404979137258,0 -68.0837093947981,-38.9404322278691,0 -68.0834140870022,-38.9410718898094,0 -68.0834441298313,-38.941739957642,0 -68.0842275702722,-38.9417789238031,0 -68.0841974447844,-38.9451756674624,0 -68.0897525611708,-38.9451168183035,0 -68.0897628246205,-38.9462974965635,0 -68.0952119493,-38.9458432622186,0 -68.0952196668437,-38.9449268012913,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gregorio Alvarez</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1017381636396,-38.9402302819065,0 -68.1019175527488,-38.9406285036166,0 -68.1004601372294,-38.9406942647506,0 -68.0974168245913,-38.9408273451135,0 -68.095805241221,-38.9409027684931,0 -68.0959316473683,-38.9411097703772,0 -68.0955857154283,-38.9413835445661,0 -68.0951749757853,-38.9417101727529,0 -68.0952196668437,-38.9449268012913,0 -68.1007547482892,-38.9449458277549,0 -68.1016791983827,-38.944364837537,0 -68.1047605706439,-38.9417884078547,0 -68.1057360045602,-38.9417840635951,0 -68.104450244071,-38.9407849858108,0 -68.1027197644088,-38.9407678006438,0 -68.1025040287747,-38.9402456146722,0 -68.1017381636396,-38.9402302819065,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Antu Ruca</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0939426595695,-38.909705064277,0 -68.0901051474189,-38.9092616844682,0 -68.0924907876056,-38.9077077534026,0 -68.0960881928883,-38.905524760129,0 -68.1009394959709,-38.9037457138409,0 -68.1039833762776,-38.9098757750831,0 -68.10356568026,-38.9101483662329,0 -68.0939426595695,-38.909705064277,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ciudad Industrial</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1045664916591,-38.9103412717645,0 -68.1060431597696,-38.9088203576494,0 -68.0889282956941,-38.9074428423504,0 -68.0954698490244,-38.9032688962068,0 -68.1003312066864,-38.9013941737861,0 -68.0894556558217,-38.8930117083732,0 -68.0874771502521,-38.8949776616389,0 -68.0848308536551,-38.8971187389713,0 -68.082435093085,-38.8988123637472,0 -68.082439393346,-38.8993821910441,0 -68.0810129620028,-38.9000174526412,0 -68.0791691914658,-38.9012404735869,0 -68.0780539366515,-38.9021798431976,0 -68.0769410371867,-38.9030386853147,0 -68.0751518147302,-38.9044479509148,0 -68.0747217796076,-38.9048464363581,0 -68.0722349194496,-38.9067803933484,0 -68.0705761185855,-38.9075874219192,0 -68.0696447238733,-38.9081924451383,0 -68.071836036902,-38.9084104320182,0 -68.0724877088646,-38.9093974221347,0 -68.0721083961837,-38.9105419571713,0 -68.0735165183194,-38.9109174030698,0 -68.0740656818526,-38.911970412086,0 -68.0758810510593,-38.9124970465241,0 -68.0788285316262,-38.91325513463,0 -68.0802885966692,-38.9135868341512,0 -68.080706710861,-38.9136997659472,0 -68.08204527861,-38.9136436471027,0 -68.0847212228241,-38.9147494546335,0 -68.0859702016552,-38.9149765845061,0 -68.0886990944551,-38.9143555116866,0 -68.0906346658482,-38.9158666897559,0 -68.0901474802484,-38.9185438549962,0 -68.0943641183946,-38.9182208716401,0 -68.1004207981271,-38.9186901809474,0 -68.1019880801482,-38.9185465976995,0 -68.1058737536071,-38.9173756929307,0 -68.1126489356964,-38.9150036895815,0 -68.1247568097902,-38.9117374884048,0 -68.1206616374312,-38.9114843563973,0 -68.1093233985239,-38.9106486245881,0 -68.1045664916591,-38.9103412717645,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Tanque</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0839720831338,-38.9139859358525,0 -68.0830275590694,-38.9133719007013,0 -68.0894023940084,-38.9092830743969,0 -68.0899913648875,-38.9093982340779,0 -68.0901739228464,-38.9098949370353,0 -68.0904877240393,-38.9113619799099,0 -68.0898892609495,-38.9113312138056,0 -68.089748787375,-38.9125974388724,0 -68.0887814893703,-38.912572980907,0 -68.088758804073,-38.9129107266382,0 -68.0878959283724,-38.9129634854976,0 -68.0879545797644,-38.9139077811628,0 -68.0862595058073,-38.9149481309491,0 -68.0857340691358,-38.9145162909086,0 -68.0852236088462,-38.9143304942733,0 -68.0847551889706,-38.9140312538041,0 -68.0839720831338,-38.9139859358525,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Colonia Nueva Esperanza</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1045349476104,-38.9103392329883,0 -68.1093233985239,-38.9106486245881,0 -68.1206666659169,-38.9112344664365,0 -68.1243633186018,-38.9113342931344,0 -68.1426348461264,-38.9122485457382,0 -68.1621861543679,-38.8968103253192,0 -68.158097735521,-38.8937047938562,0 -68.1531577242225,-38.8975825880759,0 -68.1422166701211,-38.8893199086031,0 -68.1455906960473,-38.8879215477503,0 -68.1440934356457,-38.8846641368117,0 -68.1402557161296,-38.8820565749372,0 -68.1095909604636,-38.9038944306822,0 -68.1063855226081,-38.9064826545213,0 -68.1041411138698,-38.9084444449829,0 -68.1062587446726,-38.9086496803733,0 -68.1045349476104,-38.9103392329883,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Trebol</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1031241552975,-38.9081695766762,0 -68.1010594871302,-38.9036668519142,0 -68.1054582343184,-38.902093395501,0 -68.112823400952,-38.8995391601998,0 -68.1152971002387,-38.8987403780123,0 -68.1182947458427,-38.8995959165854,0 -68.1167942521845,-38.9039340862176,0 -68.114183349068,-38.9106306861183,0 -68.1092395855575,-38.9104737087965,0 -68.1046780604605,-38.9101732200403,0 -68.1031241552975,-38.9081695766762,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Terrazas del Neuquen</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0743317051323,-38.9297287548916,0 -68.0785328915539,-38.92982915658,0 -68.0783302049146,-38.9303645071334,0 -68.0788552993546,-38.9302974408453,0 -68.0792639122378,-38.9310127771613,0 -68.0802556428089,-38.9312876379171,0 -68.0813173794439,-38.9315624621354,0 -68.0841076804731,-38.9316866200865,0 -68.0840864826505,-38.9297576536557,0 -68.0850200875676,-38.9297689840908,0 -68.0852456796989,-38.9297713088899,0 -68.0852539354356,-38.929636500675,0 -68.0852880362788,-38.9280207112118,0 -68.0853093753498,-38.927666809808,0 -68.0868580552743,-38.9276904224288,0 -68.0869376965118,-38.9264817542443,0 -68.0884961781184,-38.9259948510206,0 -68.0887654588983,-38.9257394765668,0 -68.0888174725219,-38.9238644187773,0 -68.0882921850809,-38.921940774413,0 -68.0876492587594,-38.9220455359204,0 -68.0874235367479,-38.9211023621256,0 -68.0875388133596,-38.9193956413281,0 -68.0866004802502,-38.9189942364739,0 -68.085668541253,-38.9190723922429,0 -68.0853310747206,-38.9193434505972,0 -68.0843564881334,-38.9207082235832,0 -68.082763976469,-38.9203636679377,0 -68.0793134168778,-38.9205653561577,0 -68.0790300453841,-38.9205736581777,0 -68.0764934055884,-38.9207416431484,0 -68.0764370885325,-38.9214541874875,0 -68.0764533394536,-38.9222293020213,0 -68.0765709728793,-38.9243815056927,0 -68.076583064544,-38.9260997711191,0 -68.0761609337083,-38.9268481301014,0 -68.0758446779958,-38.9273825545689,0 -68.0745119808274,-38.9295086076246,0 -68.0743317051323,-38.9297287548916,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Patagonia</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0840013669298,-38.9299619487778,0 -68.0840245733011,-38.9316254846926,0 -68.082030768854,-38.9315579551449,0 -68.0819730255758,-38.9299336316883,0 -68.0840013669298,-38.9299619487778,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Unipol</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0852187302553,-38.9273489380765,0 -68.0851395012199,-38.9296914777127,0 -68.0804957612568,-38.9296124734564,0 -68.0804200013632,-38.9273111633518,0 -68.0852187302553,-38.9273489380765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Alta Barda</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0673434817943,-38.940429511308,0 -68.067586680774,-38.938300688806,0 -68.0683390090172,-38.9360337279089,0 -68.0692676669394,-38.9348957137832,0 -68.069950249419,-38.9340867077092,0 -68.0710281229877,-38.9331722511979,0 -68.0726014883411,-38.9315739667087,0 -68.0736594161773,-38.930405943014,0 -68.0743317051323,-38.9297287548916,0 -68.0785328915539,-38.92982915658,0 -68.078303539613,-38.9303702308518,0 -68.0788167785244,-38.9303386767474,0 -68.0788707005323,-38.9315809799659,0 -68.0796871594398,-38.9315778657478,0 -68.0798025815891,-38.9321116574789,0 -68.0788137331227,-38.9321427587358,0 -68.0766059017903,-38.9322599990327,0 -68.0759013178648,-38.9329598016329,0 -68.07429311666,-38.9351070628371,0 -68.072914943507,-38.935550862218,0 -68.0728493961042,-38.9357939510006,0 -68.0732221708152,-38.9359105958541,0 -68.0735497706478,-38.9363029716322,0 -68.0735922847298,-38.9378299278423,0 -68.0733990229784,-38.9382993718057,0 -68.0731523052175,-38.939306906438,0 -68.074358404415,-38.9394648342038,0 -68.0747615440798,-38.9394324250688,0 -68.0742968950118,-38.9412135670257,0 -68.0748574753373,-38.9412829742076,0 -68.0755016527851,-38.9413205596614,0 -68.0758567325943,-38.9413391520179,0 -68.0758974055929,-38.9413409395298,0 -68.0772041971972,-38.9415289202785,0 -68.0785182606152,-38.9421317714521,0 -68.0748451665549,-38.942126661544,0 -68.0748483456441,-38.9432819608129,0 -68.0731148848727,-38.9433003455395,0 -68.0731229634889,-38.9438573568379,0 -68.0716355951933,-38.9438661523524,0 -68.0716143450938,-38.9433135648168,0 -68.0675341307109,-38.9433446662416,0 -68.0675297851738,-38.9421542756268,0 -68.0670427518846,-38.9421620965471,0 -68.0673434817943,-38.940429511308,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Salud Publica</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0710281229877,-38.9331722511979,0 -68.0727240352,-38.9317138018137,0 -68.0738547728588,-38.9303664651827,0 -68.076066842811,-38.9313176087063,0 -68.0757979384124,-38.9318791614663,0 -68.0760877677183,-38.9321184782129,0 -68.074056964699,-38.9348950783031,0 -68.0728690637677,-38.9344203227943,0 -68.0722669563445,-38.9339566579975,0 -68.0710281229877,-38.9331722511979,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Islas Malvinas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0837498251316,-38.9376946281747,0 -68.0818077141769,-38.9377202036096,0 -68.0815107082281,-38.9377350696612,0 -68.0811921364723,-38.9377827728763,0 -68.0810440435995,-38.937776346765,0 -68.0808582938048,-38.9374510773056,0 -68.0806569929722,-38.9371527787171,0 -68.0804157907586,-38.9370025220358,0 -68.0803258479791,-38.9369068651513,0 -68.0795583554872,-38.936912683873,0 -68.0794566737243,-38.9371373840249,0 -68.0792512358922,-38.9371595006667,0 -68.0790858188368,-38.9371715477516,0 -68.0789149503372,-38.9371835678639,0 -68.0788682265385,-38.9372521686757,0 -68.0788496218981,-38.9372715907973,0 -68.0788908356097,-38.9374867505179,0 -68.0789264432644,-38.9376709936844,0 -68.0788184644222,-38.9380885070975,0 -68.0786036214624,-38.938250003532,0 -68.0783555486366,-38.938337058894,0 -68.0777405509322,-38.938227609728,0 -68.0772612898844,-38.9382712959592,0 -68.0769337486978,-38.938333982969,0 -68.0766668335896,-38.9384090171916,0 -68.0764312319505,-38.9384130874381,0 -68.0761068735609,-38.9376637277452,0 -68.0760489771679,-38.9376166900573,0 -68.0759800544334,-38.9375849895689,0 -68.075553636641,-38.9379480537209,0 -68.0754486313681,-38.9379887618416,0 -68.0752768778698,-38.9380497109827,0 -68.0749688266555,-38.9381474106732,0 -68.0749307425877,-38.9381545266682,0 -68.0747710019485,-38.9383142273636,0 -68.0746661066831,-38.9384194707366,0 -68.0744975861573,-38.9385969042225,0 -68.0743704130185,-38.9387353508877,0 -68.0741433575602,-38.938739484284,0 -68.0739314008032,-38.9387511548609,0 -68.0732594581921,-38.9389305254676,0 -68.0731634586589,-38.9393006544468,0 -68.0743435948223,-38.9394350454541,0 -68.074784568453,-38.9394148048023,0 -68.0743056381109,-38.9411853508931,0 -68.0758567325943,-38.9413391520179,0 -68.0772229793027,-38.9415200007954,0 -68.0785032966582,-38.9421116735314,0 -68.078510286198,-38.9419144362296,0 -68.0792719668535,-38.942452782741,0 -68.0798412323205,-38.9429670534767,0 -68.0800763969459,-38.9434372805352,0 -68.0800540351276,-38.9440931944672,0 -68.0799259964165,-38.944472781365,0 -68.0794368221396,-38.9450657649132,0 -68.0786902429697,-38.9473621263472,0 -68.0787323352976,-38.9506074870341,0 -68.0897995518976,-38.9505225387183,0 -68.0897628246205,-38.9462974965635,0 -68.0897525611708,-38.9451168183035,0 -68.0841974447844,-38.9451756674624,0 -68.0842275702722,-38.9417789238031,0 -68.0834441298313,-38.941739957642,0 -68.0834140870022,-38.9410718898094,0 -68.0837093947981,-38.9404322278691,0 -68.0843931062879,-38.9404979137258,0 -68.0842091756956,-38.938868931595,0 -68.0837498251316,-38.9376946281747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Cordon Colon</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0794974288515,-38.9451052898517,0 -68.0799645333622,-38.9445334007896,0 -68.0801210646416,-38.9441344041066,0 -68.0801555855396,-38.9434242707367,0 -68.0798593243871,-38.9429082109559,0 -68.0796140049365,-38.942664917028,0 -68.0793525750126,-38.9428065749463,0 -68.0780529482458,-38.9433483491191,0 -68.0774529089022,-38.9436713927847,0 -68.0772195513231,-38.9434929286982,0 -68.0771183429549,-38.9432631981198,0 -68.0766052465338,-38.943007878025,0 -68.0765784950235,-38.9429976013512,0 -68.0764218708132,-38.9429304788187,0 -68.0761731797106,-38.9423462132382,0 -68.0763409069699,-38.9420879870202,0 -68.0767823548973,-38.9416748976316,0 -68.0770427267251,-38.941347267111,0 -68.0770666549202,-38.9409991549823,0 -68.0760966019404,-38.9388972557608,0 -68.0757039722267,-38.938390134682,0 -68.0764712831791,-38.9377882206816,0 -68.0777609950955,-38.9385432280361,0 -68.0791090343517,-38.9391274010377,0 -68.0794282148598,-38.9400447944529,0 -68.0798273463588,-38.940148306501,0 -68.0805449372083,-38.9406700646807,0 -68.0807959394332,-38.9410385071788,0 -68.0811018373122,-38.9415774329613,0 -68.0816398349436,-38.9423373322794,0 -68.082010246615,-38.9434057542838,0 -68.0821499845342,-38.9469285284229,0 -68.0789163988799,-38.9471786149244,0 -68.0788582229382,-38.9471047670255,0 -68.0794974288515,-38.9451052898517,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Bardas Soleadas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0810643831158,-38.93776598641,0 -68.0812263523901,-38.9377409602564,0 -68.0815107082281,-38.9377350696612,0 -68.0818077141769,-38.9377202036096,0 -68.0837498251316,-38.9376946281747,0 -68.0943088333165,-38.9375046294355,0 -68.0947556406774,-38.9364798899239,0 -68.094681449873,-38.9340538103695,0 -68.0924226995264,-38.9344642685596,0 -68.0911095467638,-38.9347431146124,0 -68.0884037882535,-38.9348331925711,0 -68.0865668578297,-38.9337737551141,0 -68.0857831192825,-38.9333958871255,0 -68.0858217785548,-38.9330452625414,0 -68.0856286549333,-38.932565682755,0 -68.085338474507,-38.9318852209886,0 -68.0839588985036,-38.9317965775554,0 -68.0810870438863,-38.9315294119022,0 -68.0807237896988,-38.9332053450131,0 -68.0809453775371,-38.9335299899614,0 -68.0808346527616,-38.9338673713689,0 -68.080786082772,-38.9340984253268,0 -68.0809771746896,-38.9345984085207,0 -68.0810853889462,-38.9350443305317,0 -68.081065323769,-38.9351272522988,0 -68.0811304108679,-38.9368249223206,0 -68.080751106359,-38.9369902635334,0 -68.080701927409,-38.9371476835682,0 -68.0810643831158,-38.93776598641,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Yupanqui</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0818834319808,-38.9349726841777,0 -68.081894593329,-38.934429505773,0 -68.0819016650907,-38.9337112607035,0 -68.0815659601648,-38.9332953815173,0 -68.081028653028,-38.9330882580719,0 -68.081205550769,-38.9322356174284,0 -68.0828492500316,-38.9322677412544,0 -68.0829524370793,-38.9327874490453,0 -68.0835577973626,-38.9329745137749,0 -68.0837897555415,-38.9348520668263,0 -68.0818834319808,-38.9349726841777,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cumelen</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0787323352976,-38.9506074870341,0 -68.0788006629603,-38.9558754674717,0 -68.0898455008704,-38.9558085164483,0 -68.0897995518976,-38.9505225387183,0 -68.0787323352976,-38.9506074870341,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Don Bosco III</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.078901609138,-38.9730851962087,0 -68.0789233642076,-38.9652155822079,0 -68.0754812640143,-38.965221238154,0 -68.0748270673718,-38.9657086158283,0 -68.0733248727058,-38.9657123893121,0 -68.0733119773965,-38.9731096464829,0 -68.078901609138,-38.9730851962087,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Sirena</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0899992589033,-38.9645270834087,0 -68.0899467020628,-38.9594274437273,0 -68.0787947016722,-38.9594909870769,0 -68.0788804641408,-38.9645693086875,0 -68.0899992589033,-38.9645270834087,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Los Hornitos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1405467030298,-38.9354058813226,0 -68.1351365951886,-38.9353797020928,0 -68.1357178115076,-38.934463378999,0 -68.1379036112023,-38.9342865961429,0 -68.1430369460134,-38.9327431024722,0 -68.1429339045543,-38.9322229435924,0 -68.1490518707547,-38.9314453056398,0 -68.1492418346734,-38.9331147518658,0 -68.1448585277649,-38.9342641898656,0 -68.1405467030298,-38.9354058813226,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Esfuerzo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1428275046076,-38.9309142714845,0 -68.1429681723824,-38.932197450541,0 -68.1430851232115,-38.9326605113914,0 -68.1425565180557,-38.9328276647313,0 -68.1407527145355,-38.9330524523178,0 -68.1408166156608,-38.9333610290736,0 -68.1402588677691,-38.9337908400394,0 -68.1397994089853,-38.9339847600082,0 -68.1374917564088,-38.9348133238022,0 -68.1355240453538,-38.935381286561,0 -68.1405467030298,-38.9354058813226,0 -68.1405819496611,-38.935397347941,0 -68.1495776245786,-38.9332190340733,0 -68.1494258619406,-38.9314983170878,0 -68.1518090063873,-38.9312469388786,0 -68.1603185615345,-38.9301994003353,0 -68.160329672544,-38.9301767170485,0 -68.160982130669,-38.9295155513871,0 -68.1604289476524,-38.928144072971,0 -68.1598971842383,-38.9278009726166,0 -68.1590739921354,-38.9283789133646,0 -68.1591540048511,-38.9288353233911,0 -68.1583844028091,-38.9289187202555,0 -68.1578282859127,-38.9290036524745,0 -68.156033653662,-38.9283928969518,0 -68.1547943790106,-38.9282884651408,0 -68.1541988218014,-38.9280096890399,0 -68.1537284778422,-38.9276077130343,0 -68.1533817446429,-38.9272173715421,0 -68.1522365829831,-38.9276290289781,0 -68.1501483410197,-38.9284810396108,0 -68.1473273053627,-38.9294000270307,0 -68.14648622617,-38.9297232347013,0 -68.1454176760449,-38.9301593292316,0 -68.1445154382448,-38.930552290959,0 -68.1427841079201,-38.9306424036513,0 -68.1428275046076,-38.9309142714845,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Toma Esfuerzo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1454746133187,-38.9318260421869,0 -68.1453083410492,-38.9307292177486,0 -68.1479918851944,-38.9296041696891,0 -68.1511594731806,-38.9292233686156,0 -68.151609401626,-38.9310806635601,0 -68.1454746133187,-38.9318260421869,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Alma Fuerte</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.151609401626,-38.9310806635601,0 -68.1511594731806,-38.9292233686156,0 -68.1507870599718,-38.928323883787,0 -68.1533633773325,-38.9273071349567,0 -68.1538413148209,-38.9277904997034,0 -68.1541601629583,-38.9280481814883,0 -68.154777669288,-38.928337715705,0 -68.1560256108983,-38.9284376184956,0 -68.1578056560322,-38.9290440112655,0 -68.1591988923189,-38.9288741738982,0 -68.1591231745527,-38.9284116015896,0 -68.159889630806,-38.9278780920586,0 -68.1603754749974,-38.9281921201492,0 -68.1609070788492,-38.9294913273825,0 -68.1602539516867,-38.9301495145763,0 -68.1541822582665,-38.9308390529771,0 -68.151609401626,-38.9310806635601,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Hibepa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1355240453538,-38.935381286561,0 -68.1374917564088,-38.9348133238022,0 -68.1397994089853,-38.9339847600082,0 -68.1402588677691,-38.9337908400394,0 -68.1408166156608,-38.9333610290736,0 -68.1407527145355,-38.9330524523178,0 -68.1425565180557,-38.9328276647313,0 -68.1430851232115,-38.9326605113914,0 -68.1429681723824,-38.932197450541,0 -68.1428275046076,-38.9309142714845,0 -68.1427766540345,-38.9306485360381,0 -68.1367578252047,-38.9305772788853,0 -68.1254806673987,-38.9304612098762,0 -68.1216154760099,-38.9304196308954,0 -68.1239436925673,-38.9324732564972,0 -68.1241455488966,-38.9326338706516,0 -68.1241619754883,-38.9333698282757,0 -68.1268458322863,-38.9333409433073,0 -68.126843823255,-38.9324658819538,0 -68.1342067581173,-38.9323966725951,0 -68.1338087484839,-38.9331507808952,0 -68.1337231318219,-38.9338422401716,0 -68.1337222915077,-38.934504222129,0 -68.1337209768521,-38.9353738482216,0 -68.1339100213749,-38.9353788761516,0 -68.1355240453538,-38.935381286561,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cuenca XV</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1426227580685,-38.924188795671,0 -68.1432806221908,-38.9223649382258,0 -68.1440283812225,-38.9205415294856,0 -68.1443505365595,-38.9197878740324,0 -68.1432663304524,-38.9188196133335,0 -68.1430418538234,-38.9185511360357,0 -68.1430700156305,-38.9184207046008,0 -68.1416153402125,-38.9188297208956,0 -68.1393639889495,-38.9190577385333,0 -68.1388068333835,-38.9179001433628,0 -68.137562684093,-38.9173767597013,0 -68.1366181116574,-38.9178144936238,0 -68.1355076211027,-38.9178507468928,0 -68.1344141743223,-38.9185872435678,0 -68.1333318611033,-38.9186459207966,0 -68.1323232558577,-38.9173265166421,0 -68.1313453130088,-38.9181642040025,0 -68.1287412801968,-38.9193010590815,0 -68.1278491960867,-38.9200948858052,0 -68.1268129453023,-38.9210377187267,0 -68.1273373110272,-38.9215950216754,0 -68.1255170161393,-38.9218629078347,0 -68.1254898704941,-38.9257972699414,0 -68.1254806673987,-38.9304612098762,0 -68.1367578252047,-38.9305772788853,0 -68.1427766540345,-38.9306485360381,0 -68.1426227580685,-38.924188795671,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Z1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1360696899831,-38.9177114786316,0 -68.1366287916567,-38.9180998174708,0 -68.1373025436264,-38.9176262303736,0 -68.13790072611,-38.9175105182017,0 -68.1382796152216,-38.9175246676962,0 -68.1387801830886,-38.9178238295882,0 -68.1387470234452,-38.9182728208088,0 -68.1383503899609,-38.9186442466535,0 -68.1400147931365,-38.9197491571859,0 -68.1401981084665,-38.9194891653717,0 -68.1406095361141,-38.9191388935499,0 -68.1435571307098,-38.9188631696215,0 -68.1438084651832,-38.9189564553966,0 -68.1438939962951,-38.91973987043,0 -68.1432960584457,-38.9198413502151,0 -68.1434044930354,-38.920727110511,0 -68.142142880635,-38.920899548792,0 -68.1421240956617,-38.9208989979139,0 -68.1425392678489,-38.9222228284233,0 -68.1416899698413,-38.922523879886,0 -68.1425340615948,-38.9240077150814,0 -68.142534469899,-38.925051446352,0 -68.142340403131,-38.925107971501,0 -68.1419088704355,-38.9247906380163,0 -68.1412144122312,-38.9241969324149,0 -68.1402057793526,-38.9239747570609,0 -68.1401593728155,-38.9239734153594,0 -68.13934123273,-38.9242375054739,0 -68.1391692587703,-38.9246810722965,0 -68.1390779037379,-38.9252827342193,0 -68.1395559226842,-38.925746360886,0 -68.1404908271478,-38.9273648772316,0 -68.1383368436718,-38.9282758640941,0 -68.1371626880047,-38.9285950386272,0 -68.1369779625324,-38.9287212037059,0 -68.1368067039623,-38.9287267662988,0 -68.1367548857416,-38.9286001095515,0 -68.1364186364364,-38.9275322306684,0 -68.1357939103682,-38.9256588501158,0 -68.1352337773259,-38.925648707188,0 -68.1349542639298,-38.9255837549921,0 -68.134607309666,-38.9254586540532,0 -68.1331172412791,-38.9246930898001,0 -68.1323023367806,-38.924208776783,0 -68.1314826897524,-38.9238548909429,0 -68.1301542718158,-38.9234370037489,0 -68.1291375675902,-38.9229050193916,0 -68.1287340092593,-38.922521053769,0 -68.1269457555948,-38.921100298253,0 -68.1289070151528,-38.9195407344512,0 -68.1292840745513,-38.9198718731194,0 -68.1321093475072,-38.9177366187021,0 -68.1322239973816,-38.9176712665918,0 -68.1340812928805,-38.9193968789194,0 -68.1360696899831,-38.9177114786316,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Valentina Sur Rural</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.093816673587,-38.9883584489427,0 -68.0953178608734,-38.9857534296416,0 -68.0901087765274,-38.9842751296919,0 -68.090084741509,-38.9730858408779,0 -68.090097293675,-38.9728164652013,0 -68.1011812617603,-38.9727015283229,0 -68.1009954674,-38.9622762025814,0 -68.1202256845951,-38.9621470860262,0 -68.1114391371114,-38.9690968754893,0 -68.1151776972054,-38.9719717234467,0 -68.1194024188719,-38.9687338117899,0 -68.1182253156739,-38.9678594322125,0 -68.1268620796111,-38.9613729568121,0 -68.1211316338722,-38.9614304017683,0 -68.1241818838857,-38.9590754600547,0 -68.1250319813283,-38.9586792300713,0 -68.1268049621535,-38.9583674975372,0 -68.1284314511558,-38.9581196464131,0 -68.1468930472213,-38.9580984975257,0 -68.1496356310904,-38.9580006087392,0 -68.1531214697568,-38.9580096570299,0 -68.1557353228735,-38.9580226763072,0 -68.1580294381907,-38.9580119250212,0 -68.1597810715189,-38.9577320379695,0 -68.1626171849632,-38.9572649034787,0 -68.1678651356485,-38.9566119073811,0 -68.1356798183638,-38.9806426728391,0 -68.1307086650802,-38.9818064671721,0 -68.1245950823596,-38.9812855475273,0 -68.1171030893095,-38.9783361075602,0 -68.1133790247893,-38.9795600604986,0 -68.1110902023336,-38.9810970889812,0 -68.108351414352,-38.9831919606825,0 -68.1068378768535,-38.9846916471512,0 -68.1040592527785,-38.9855339224181,0 -68.1009456964982,-38.9865894451844,0 -68.0944952516533,-38.9891156832961,0 -68.093816673587,-38.9883584489427,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector 140 Viviendas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1299170314221,-38.9631577297731,0 -68.1278980765736,-38.9616167991967,0 -68.1281576079489,-38.9613586151563,0 -68.1321421681979,-38.9613169003921,0 -68.1299170314221,-38.9631577297731,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector Bosch</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1211883013439,-38.9699730651142,0 -68.1184501166529,-38.9678697160817,0 -68.1269892247689,-38.9613729577286,0 -68.1280077406883,-38.9613523704114,0 -68.1277321123736,-38.9616118865448,0 -68.1297178644604,-38.9632201644439,0 -68.1211883013439,-38.9699730651142,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Los Hornos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1725945862464,-38.9170018473538,0 -68.1705849390429,-38.9181504110594,0 -68.1698763766093,-38.9186939689453,0 -68.1678164688475,-38.9193122960828,0 -68.1665181584929,-38.9194718318317,0 -68.1636562688043,-38.921499359479,0 -68.1609237152062,-38.922744417018,0 -68.1602732347878,-38.9243654095085,0 -68.160709673355,-38.924855193775,0 -68.1628325298516,-38.9258821665489,0 -68.1621530921626,-38.9266221911307,0 -68.1616220258001,-38.9263946304379,0 -68.160835529871,-38.9274657043701,0 -68.1603301079823,-38.9280766546607,0 -68.1610109887109,-38.9294824051289,0 -68.1604856783631,-38.9301234660218,0 -68.1617557751954,-38.9304494536262,0 -68.1629130666366,-38.9306856753954,0 -68.1689997703856,-38.9319680161957,0 -68.1727080805179,-38.9291779844987,0 -68.1766643187227,-38.9289674424014,0 -68.1779720455713,-38.9284396668024,0 -68.1776590774065,-38.927494742775,0 -68.1778599712798,-38.9194849908842,0 -68.1725945862464,-38.9170018473538,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Altos del Limay</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.07416554079,-38.9775137032588,0 -68.0768886141755,-38.9775830264504,0 -68.078879686777,-38.9774555147766,0 -68.0788801206882,-38.9773980405118,0 -68.078901609138,-38.9730851962087,0 -68.0900744122684,-38.9730965489548,0 -68.0901087765274,-38.9842751296919,0 -68.0953178608734,-38.9857534296416,0 -68.093816673587,-38.9883584489427,0 -68.0903733994153,-38.9915349603296,0 -68.0814932194483,-38.9938793013731,0 -68.0777814760747,-38.9920047565304,0 -68.076624996187,-38.9913025537536,0 -68.0750890718316,-38.9899042761746,0 -68.0743825527835,-38.9887507991521,0 -68.0734886548591,-38.9880847218247,0 -68.0733858312973,-38.9769626096528,0 -68.07416554079,-38.9775137032588,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Los Polvorines</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0789815738116,-38.97922393392,0 -68.0789585191828,-38.9777220843924,0 -68.0811163737594,-38.9767517116533,0 -68.0832624618756,-38.9756068878443,0 -68.0846310540842,-38.9758459786293,0 -68.0861428625486,-38.976371317257,0 -68.0870414242835,-38.9768187174663,0 -68.0893232407236,-38.9791751998057,0 -68.0873521632286,-38.9791906006314,0 -68.0844314088445,-38.9792047888102,0 -68.0789815738116,-38.97922393392,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>127 Hectareas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0843962218597,-38.9755867174689,0 -68.0843148556058,-38.9753618259613,0 -68.085323852118,-38.9751211668724,0 -68.0880827304426,-38.9745560371845,0 -68.0891555203935,-38.9739870453062,0 -68.0896461510828,-38.9732422454086,0 -68.089932194878,-38.9732141412746,0 -68.0899413523652,-38.9784938558091,0 -68.0890742515817,-38.9786792632919,0 -68.0874054472798,-38.976939031375,0 -68.0871477352105,-38.976675838547,0 -68.0866447811124,-38.9763818266345,0 -68.0843962218597,-38.9755867174689,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cuenca XVI</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1426481438389,-38.9240842775826,0 -68.1427522220338,-38.9289647230285,0 -68.1427871775605,-38.9306412328807,0 -68.1445147286054,-38.9305441219128,0 -68.1464003647806,-38.9297488597534,0 -68.147042025909,-38.9294934078858,0 -68.1480142093411,-38.9291492325138,0 -68.1501436008569,-38.9284309746019,0 -68.153389138963,-38.9272093549731,0 -68.1535581871887,-38.927410774751,0 -68.1537331031101,-38.9276041666229,0 -68.1542105636442,-38.9280046799886,0 -68.1547980355629,-38.9282757645574,0 -68.1560421106987,-38.9283903858497,0 -68.1578567508283,-38.9290038578383,0 -68.1591044538716,-38.9288127306594,0 -68.1590528405292,-38.9283620841446,0 -68.1598637867523,-38.9277897930253,0 -68.1603376828492,-38.9280377965148,0 -68.1608233654852,-38.9274608436608,0 -68.1616188276688,-38.9263640332455,0 -68.1621461886741,-38.9266040749941,0 -68.1628182816659,-38.9258834541018,0 -68.1606530087989,-38.9248325505488,0 -68.1602732309015,-38.9243657391641,0 -68.1604820760473,-38.9238344726432,0 -68.1606972350995,-38.9233401756521,0 -68.161009342922,-38.9226408524293,0 -68.163663082678,-38.9214941333557,0 -68.1662884751117,-38.9194807416,0 -68.1660830378329,-38.9185719839588,0 -68.165034474375,-38.9181635931385,0 -68.1640431539502,-38.9174813057475,0 -68.1633751815323,-38.9168646270146,0 -68.1621891487303,-38.9166662231905,0 -68.161650270842,-38.9165568556772,0 -68.1614505522285,-38.9174627116142,0 -68.1610385021975,-38.9180505447218,0 -68.1604981241411,-38.9180677597261,0 -68.1599594871873,-38.9179372863632,0 -68.1593227845211,-38.9169621134774,0 -68.1579947510098,-38.9173534380011,0 -68.1570712988873,-38.9177898689038,0 -68.1553361396261,-38.9183470207016,0 -68.1545794556683,-38.9183837427619,0 -68.1534057674714,-38.9189300536681,0 -68.152407270701,-38.9188595089189,0 -68.1520056856012,-38.9185611958342,0 -68.1508444017813,-38.9185527543994,0 -68.1508444017813,-38.9185527543994,0 -68.1503852897078,-38.9185494139022,0 -68.1493067897339,-38.9183938613428,0 -68.1485258699868,-38.9181982702116,0 -68.1481482843111,-38.9181533160265,0 -68.147312852815,-38.9179995185159,0 -68.1464236652044,-38.9178242222353,0 -68.1456404829749,-38.9178184930864,0 -68.1449274316997,-38.9187205617306,0 -68.1442070124706,-38.920234464412,0 -68.1435951004049,-38.9217069587566,0 -68.1426481438389,-38.9240842775826,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector 8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1476302327897,-38.925889153313,0 -68.1480437418717,-38.9259239049196,0 -68.1480228453674,-38.9267347644704,0 -68.1475360511042,-38.9284097782926,0 -68.1470998296905,-38.9287932272239,0 -68.144660492474,-38.9297302496942,0 -68.1443375919254,-38.9292619538083,0 -68.1476302327897,-38.925889153313,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>2 y 7 de Mayo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1254344513544,-38.9254940768799,0 -68.1253378303906,-38.9234638248725,0 -68.1254509932984,-38.9218446879378,0 -68.1271835223324,-38.9215741486757,0 -68.1267344717622,-38.9210538085454,0 -68.1269292437119,-38.9208384666027,0 -68.1278711713674,-38.9200436297408,0 -68.1282620619411,-38.9195017727427,0 -68.1278133829783,-38.9190967875094,0 -68.127282502083,-38.918286772688,0 -68.1264686272294,-38.9179249128423,0 -68.1262139165277,-38.9178062687269,0 -68.1259564961149,-38.9179085718974,0 -68.1255562418891,-38.9174733663203,0 -68.1252884644395,-38.917260120213,0 -68.124355365159,-38.9167583785851,0 -68.1233169235772,-38.9161446595163,0 -68.1230417693348,-38.9159535886462,0 -68.122698547939,-38.9155118529783,0 -68.1225120610882,-38.9150546176532,0 -68.1210808957438,-38.9151327945851,0 -68.1198746799052,-38.9148568774783,0 -68.117948236129,-38.9147089230958,0 -68.1180341632543,-38.9146651007233,0 -68.117659312416,-38.9154877717186,0 -68.1168998074833,-38.9170607692143,0 -68.1162847209639,-38.9182198989348,0 -68.1160228402897,-38.9189219368214,0 -68.1156462290581,-38.9194527428082,0 -68.1156683420717,-38.9199643329532,0 -68.1159453703668,-38.9208861754307,0 -68.1157731224399,-38.9214719809772,0 -68.115830910396,-38.9222313658509,0 -68.1160200034568,-38.9227214615067,0 -68.1163729671887,-38.9235246231583,0 -68.1164506185258,-38.9235752415048,0 -68.1164609529075,-38.924906672771,0 -68.1166210954013,-38.9250482479331,0 -68.1166381782062,-38.925105356311,0 -68.1167174763206,-38.9253102472967,0 -68.1168906586582,-38.9254046697928,0 -68.1170668434325,-38.9254004436159,0 -68.1173533229752,-38.925397051202,0 -68.1175941811281,-38.9256295680428,0 -68.1179961838009,-38.9254922430518,0 -68.1184274615732,-38.9257206378703,0 -68.1187093184725,-38.9258033707443,0 -68.1195906265025,-38.9270468844628,0 -68.1198354091702,-38.9273947741839,0 -68.1203839303708,-38.9272071255578,0 -68.1204856877858,-38.9273232402283,0 -68.1210081004614,-38.9271224312419,0 -68.122022200573,-38.9286729780429,0 -68.1199345078182,-38.9303900681776,0 -68.1254804727824,-38.9304080131252,0 -68.1254344513544,-38.9254940768799,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sector 2  y 7 de Mayo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1271570224659,-38.9219019591748,0 -68.1281598281222,-38.9231255390547,0 -68.1286746086557,-38.9246874134505,0 -68.1268647433018,-38.9248447159005,0 -68.1261629443427,-38.9248069212627,0 -68.1251198645615,-38.9248651275393,0 -68.1241509533642,-38.9250161318731,0 -68.122970847384,-38.9251587457323,0 -68.1227559080608,-38.9248682539236,0 -68.1234585340086,-38.9244179061984,0 -68.1231117500648,-38.923492920769,0 -68.1235434148551,-38.9223749601023,0 -68.1241135327797,-38.9213530618683,0 -68.1259038188167,-38.9209400817101,0 -68.1271570224659,-38.9219019591748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Alta Barda 2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0807343427725,-38.9341154066863,0 -68.0808873841837,-38.9337378740117,0 -68.0809174439066,-38.9334961392772,0 -68.0807457504749,-38.9332317748041,0 -68.0809536466081,-38.9319518397763,0 -68.0810352054194,-38.9315192801916,0 -68.0802330056337,-38.9312755910036,0 -68.0794097561337,-38.9329544335494,0 -68.0791816928597,-38.9329645031523,0 -68.0789120243812,-38.9323335971977,0 -68.077009232672,-38.9315716112079,0 -68.0751313307417,-38.9340816655387,0 -68.0743636967104,-38.9351065887008,0 -68.0736575766011,-38.9353419736708,0 -68.0729709669491,-38.9355560902475,0 -68.0728999647104,-38.935757291264,0 -68.0732779751419,-38.9359027154467,0 -68.0735547513935,-38.9362372313502,0 -68.0735803815504,-38.9362997098865,0 -68.0735691276272,-38.9368841800886,0 -68.0735720864614,-38.9379724013399,0 -68.0732529068285,-38.9389230556247,0 -68.0739248011435,-38.9387473935849,0 -68.0743705260508,-38.9387256903884,0 -68.0744935276634,-38.9385898994848,0 -68.0747256500843,-38.9383497686905,0 -68.0749302857911,-38.9381515015141,0 -68.0750924629246,-38.9381107048081,0 -68.0755526012506,-38.9379460223516,0 -68.0757024009763,-38.937820962871,0 -68.0759815904038,-38.9375864624738,0 -68.0760486287581,-38.9376106642617,0 -68.0761103432226,-38.9376558648441,0 -68.0764389977996,-38.9384106806001,0 -68.0766714619467,-38.9384033143551,0 -68.0769486217769,-38.9383252878412,0 -68.0772507631367,-38.9382684991375,0 -68.0774311697911,-38.9382501993273,0 -68.0777564728091,-38.9382251538422,0 -68.07835109051,-38.9383376856133,0 -68.0785946943459,-38.9382501847814,0 -68.0786779932176,-38.9381890344649,0 -68.0787783496579,-38.9381109229252,0 -68.0788140466239,-38.9380849034425,0 -68.0788603224783,-38.9378919546903,0 -68.0789171082082,-38.9376675273849,0 -68.0788821776434,-38.9375041841547,0 -68.0788379790715,-38.9372763297712,0 -68.0789284363873,-38.9371823592255,0 -68.0794510417511,-38.9371338796237,0 -68.0795532998106,-38.9369084955294,0 -68.0803210832615,-38.9369106024788,0 -68.0806557705788,-38.937071046468,0 -68.0807515477749,-38.9369560754143,0 -68.0810903094117,-38.9368009355144,0 -68.0809650984046,-38.9350219863937,0 -68.0807343427725,-38.9341154066863,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Balsa Las Perlas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.143557361886,-38.9794110916474,0 -68.141674664233,-38.9796196142824,0 -68.1395586922475,-38.9802710991636,0 -68.1375023509673,-38.9807006299742,0 -68.1359033780828,-38.9810000985876,0 -68.1334959503522,-38.9821829690505,0 -68.1318334384163,-38.9830155644153,0 -68.1288067949937,-38.9835711313546,0 -68.1260080001701,-38.9841283264358,0 -68.1244067132675,-38.9846055042333,0 -68.1206337788435,-38.9855999675166,0 -68.1182900929194,-38.9862048769197,0 -68.1175361645561,-38.9872664850522,0 -68.1185407750487,-38.9889639825114,0 -68.1192737659426,-38.9895921137408,0 -68.1220026635936,-38.9901018633946,0 -68.1254246509503,-38.989860737066,0 -68.128334359744,-38.9895712130863,0 -68.1306346973683,-38.9878539999022,0 -68.1329322114295,-38.9863590754369,0 -68.1351048581157,-38.9857526036929,0 -68.13755640608,-38.9856373365,0 -68.139131778322,-38.9872944051566,0 -68.1400315626523,-38.9882794069183,0 -68.1411700315575,-38.9883767348014,0 -68.1455717193282,-38.9872083283434,0 -68.1470248194322,-38.9895759347688,0 -68.1482048409984,-38.9909631628541,0 -68.1515623828447,-38.9913433960556,0 -68.1535124096995,-38.9902902507333,0 -68.1540469239342,-38.98847080707,0 -68.1538444269388,-38.9863347191031,0 -68.1528421836364,-38.9843707113617,0 -68.1510929779324,-38.982934917826,0 -68.1508150188031,-38.9823547687304,0 -68.1661526833485,-38.9814425433288,0 -68.1664573577316,-38.979754809907,0 -68.165154864435,-38.9790784283572,0 -68.1639595370752,-38.9789809274683,0 -68.1613336690907,-38.9794067971701,0 -68.1603050510839,-38.9796662274613,0 -68.1586571153046,-38.9792985864185,0 -68.1568973665489,-38.9787522290484,0 -68.1555306202531,-38.9786978744774,0 -68.1551888019444,-38.9786954002078,0 -68.1533093316009,-38.9786373063671,0 -68.151599712245,-38.9786693599355,0 -68.1492559758434,-38.9793193650166,0 -68.1477087197749,-38.9800640857091,0 -68.1461071309767,-38.9805860317013,0 -68.1449677093041,-38.980577687896,0 -68.1446871341933,-38.9802198614033,0 -68.143557361886,-38.9794110916474,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ruca Antu - El Trebol</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1045574831441,-38.9002203675944,0 -68.1003577662561,-38.9015444706003,0 -68.0968416390598,-38.9028070040796,0 -68.095411318192,-38.9033962989222,0 -68.089270973423,-38.9073510137438,0 -68.0910619894981,-38.9074983866128,0 -68.0948998674873,-38.907817269612,0 -68.0993638189303,-38.9081408580652,0 -68.1040267293498,-38.908488038894,0 -68.1095350233845,-38.903816178485,0 -68.1091932338765,-38.902701777145,0 -68.1087286947619,-38.9011639558158,0 -68.1078876102574,-38.9001569171196,0 -68.1064161315079,-38.8995008234766,0 -68.1045574831441,-38.9002203675944,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Urbanizacion de la meseta</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRIOS_Y_SECTORES">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.0961378099888,-38.9299903680482,0 -68.0996033630196,-38.9312910488071,0 -68.1004918847484,-38.9315842937161,0 -68.101077294229,-38.9316842683271,0 -68.101283126298,-38.9318385969923,0 -68.1016264031678,-38.9317553211821,0 -68.1022593098238,-38.9309964720082,0 -68.1027167803597,-38.9305799442327,0 -68.1031328944009,-38.9305354097587,0 -68.1045272847436,-38.9304506503497,0 -68.1060139273953,-38.93080571919,0 -68.1071437527908,-38.929401486733,0 -68.1086413443223,-38.9279045868017,0 -68.1085397661219,-38.9267439122618,0 -68.108470430449,-38.9259367039882,0 -68.1084068732463,-38.9254819317993,0 -68.1096095515839,-38.9249129824755,0 -68.1106009441366,-38.9243391499928,0 -68.1131062162462,-38.9243137396397,0 -68.116062715255,-38.9247247585713,0 -68.1164337085757,-38.9248659915414,0 -68.1164001630126,-38.9236294656563,0 -68.115965216254,-38.9227335745089,0 -68.1158038622896,-38.9222320174302,0 -68.1157560460471,-38.9214978752098,0 -68.1158305590107,-38.9207293796851,0 -68.1156458054396,-38.9199763915363,0 -68.1156155171891,-38.9194630372467,0 -68.1175758167326,-38.9154788021948,0 -68.1179631536458,-38.9146534463362,0 -68.1199817443271,-38.914829889867,0 -68.1210884219006,-38.9150994975625,0 -68.1225977121085,-38.9150330256312,0 -68.1227691486281,-38.9155568551031,0 -68.1231411037601,-38.9159765706022,0 -68.1243981231285,-38.9167531403523,0 -68.1250772670938,-38.9170750922904,0 -68.1255570605383,-38.9174066650903,0 -68.1259780970074,-38.9178878875765,0 -68.1267504749592,-38.9175712489177,0 -68.127766865568,-38.9170841011593,0 -68.1286021058934,-38.9168624219282,0 -68.1296341829494,-38.9168367676084,0 -68.1310781236212,-38.9171328607782,0 -68.1314996120001,-38.9166395781544,0 -68.1317290868343,-38.9158584702735,0 -68.1327368165932,-38.9153886348479,0 -68.1339928454081,-38.9145960509304,0 -68.1359065455118,-38.9139801605677,0 -68.1353615303151,-38.9145871030113,0 -68.1356217645932,-38.9152954731333,0 -68.1348835578426,-38.9157100520482,0 -68.1347774637322,-38.9163966155597,0 -68.1356297578194,-38.9166511389156,0 -68.1368557898403,-38.9163165354493,0 -68.1368385222799,-38.9157245231693,0 -68.1375020206781,-38.9154239382402,0 -68.1385583499096,-38.9149735044472,0 -68.1397262464424,-38.9154021638886,0 -68.1408862937817,-38.9144560536601,0 -68.1418743362906,-38.913585039677,0 -68.1432261411797,-38.9129458041447,0 -68.1428651102521,-38.9124849203305,0 -68.1247417140287,-38.9119527846111,0 -68.112692105012,-38.9151082479249,0 -68.1090912582646,-38.9162815551486,0 -68.1019461349803,-38.9186282693631,0 -68.1004639515378,-38.9187947435615,0 -68.0943204689042,-38.9184359417727,0 -68.0900474651829,-38.9187140126605,0 -68.088307428836,-38.9219432800904,0 -68.0885431153889,-38.9226253079335,0 -68.0888574148763,-38.923849712035,0 -68.0887713810361,-38.9257386479385,0 -68.0885022347408,-38.9259990749008,0 -68.0869559746183,-38.9264959373882,0 -68.0868794536889,-38.9276981953963,0 -68.0853211666865,-38.9277003148809,0 -68.0853012030814,-38.9287789104583,0 -68.0852576552495,-38.9297904956891,0 -68.0841208780179,-38.9298006746325,0 -68.0841318359755,-38.9316311670084,0 -68.0854113516316,-38.931752377941,0 -68.0863586384165,-38.9333607654633,0 -68.0884486231148,-38.9346667751565,0 -68.0896712680849,-38.9347874954326,0 -68.0908688572782,-38.9346411796234,0 -68.0914965422784,-38.9345348884508,0 -68.0940647628669,-38.9340656646749,0 -68.0947502191622,-38.9338930972615,0 -68.0953229368228,-38.933630709315,0 -68.0962082140034,-38.9334152104689,0 -68.0967783843581,-38.9333529168205,0 -68.0975137149126,-38.9337366113127,0 -68.0982823064713,-38.9337425513872,0 -68.0987715812697,-38.9333238519511,0 -68.0973651820429,-38.9319788429794,0 -68.0961378099888,-38.9299903680482,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
